@@ -1,0 +1,29 @@
+.headerContainer{
+    display:flex;
+    width:100vw;
+    height:40vh;
+    border:5px solid black; 
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(red,green,blue);
+}
+
+
+#colorbox{ 
+    width:5em;
+    height:5em;
+    border:1px solid black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+}
+
+#poke{
+width: 100px;
+height: 100px;
+}
+.info{
+    display:grid;
+    flex-direction: row
+}
